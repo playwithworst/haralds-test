@@ -1,5 +1,5 @@
 ---
-title: "Die Anti Haralds Media Gruop Group"
+title: "Die Anti Haralds Media Group Group"
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
