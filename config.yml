@@ -1,0 +1,129 @@
+---
+baseURL: https://piko-heksagon.netlify.app/
+languageCode: de-de
+title: Haralds Life
+theme: piko
+paginate: "9"
+copyright: Haralds Media Group
+googleAnalytics: # Enter Google Analytics ie. UA-012345678-9
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+enableEmoji: true
+outputs:
+  home:
+  - HTML
+  - RSS
+  - JSON
+minify:
+  disableCSS: false
+  disableHTML: false
+  disableJS: false
+  disableJSON: false
+  disableSVG: false
+  disableXML: false
+  minifyOutput: true
+  tdewolff:
+    html:
+      keepWhitespace: false
+
+params:
+  analytics:
+    google:
+      SiteVerificationTag: # Google Site Verification
+    yandex:
+      SiteVerificationTag: # Yandex Site Verification
+    bing:
+      SiteVerificationTag: # Bing Site Verification
+  env: production
+  author: Haralds Life
+  description: Die Webseite über Haralds Life.
+  math: false
+  images:
+  - "/uploads/og.webp"
+  label:
+    title: _Haralds Life_
+    text: Die Website  
+    #icon: /uploads/zap.svg
+    #iconHeight: "35"
+    #iconWIdth: "35"
+  comments: false
+  mainSections:
+  - blog
+  ShowShareButtons: false
+  ShowCodeCopyButtons: false
+  ShowRelated: false
+  CookieNotice: We use cookies to improve your experience on our site and to show
+    you relevant advertising.
+  CookieLink: /legal/privacy/#cookies-and-web-beacons
+  CookieButton: Cookies Policy
+  disableAnchoredHeadings: false
+  contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
+  assets:
+    disableFingerprinting: false
+    #favicon: /uploads/zap.svg
+    #favicon16x16: /uploads/zap.svg
+    #favicon32x32: /uploads/zap.svg
+    #apple_touch_icon: /uploads/zap.svg
+    #safari_pinned_tab: /uploads/zap.svg
+  ShowReadingTime: false
+  ShowBreadCrumbs: false
+  homepage:
+    # Hero Section
+    disableHeroSection: false
+    heroUpperTitle: 
+    heroTitle: Haralds Life
+    heroDescription: Der Beste Kanal auf YouTube!
+    heroCTAPrimaryText: Abbonieren!
+    heroCTAPrimaryUrl: "https://youtube.com/@HaraldsLife"
+    heroCTASecondaryText: Mehr Infos
+    heroCTASecondaryUrl: "/blog/"
+    heroBackgroundImage: "/uploads/hero.png"
+    # Blog Section
+    disableBlogSection: true
+    blogTitle: Latest Posts
+    blogDescription: This is my latest blog posts
+    seeMoreText: More Posts
+    # About Section    
+    disableAboutSection: false
+    aboutTitle: Über Harald
+    aboutDescription: Wirklich sehr interessant!
+    aboutImgUrl: "/uploads/harald.png"
+    aboutContent: Harald ist einer der wichtigsten und besten Youtuber der Welt. Mit seinen Videos erreichte er Abbonentenzahlen im zweistellignen bereich. Er macht Videos, die einfach nur gut sind. Selbst die besten Creator sind von diesem Supertalent beeindruckt.
+    # Portfolio Section
+    disablePortfolioSection: true
+    portfolioTitle: Portfolio
+    portfolioDescription: Some of my works
+    portfolio:
+    - imageUrl: /uploads/portfolio-1.webp
+      alt: # image alt for better SEO
+      description: Portfolio One.
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-2.webp
+      alt: # image alt for better SEO
+      description: Portfolio Two.
+      websiteUrl: #
+    - imageUrl: /uploads/portfolio-3.webp
+      alt: # image alt for better SEO
+      description: Portfolio Three.
+      websiteUrl: #
+  # Search Options (https://fusejs.io/)
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: "0"
+    distance: "1000"
+    threshold: "0.4"
+    minMatchCharLength: "0"
+    keys:
+    - title
+    - permalink
+    - summary
+    - content
+  plugins:
+    css:
+    - link: plugins/css/pico.min.css
+    js:
+    - link: plugins/js/feather.min.js
+menus:
