@@ -90,7 +90,7 @@ params:
     aboutTitle: Über Harald
     aboutDescription: Wirklich sehr interessant!
     aboutImgUrl: "/uploads/harald.png"
-    aboutContent: Harald ist einer der wichtigsten und besten Youtuber der Welt. Mit seinen Videos erreichte er Abbonentenzahlen im zweistellignen bereich. Er macht Videos, die einfach nur gut sind. Selbst die besten Creator sind von diesem Supertalent beeindruckt.
+    aboutContent: Harald ist einer der wichtigsten und besten Youtuber der Welt. Mit seinen Videos erreichte er Abonentenzahlen im zweistelligen Bereich. Er macht Videos, die einfach nur gut sind. Selbst die besten Creators sind von diesem Supertalent beeindruckt.
     # Portfolio Section
     disablePortfolioSection: true
     portfolioTitle: Portfolio
