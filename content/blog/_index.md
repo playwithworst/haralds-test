@@ -1,6 +1,6 @@
 ---
 title: Unsere Gruppen
 image: "/uploads/hero.png"
-description: Eine erklärung aller unser Gruppen
+description: Eine Erklärung aller unserer Gruppen
 
 ---
