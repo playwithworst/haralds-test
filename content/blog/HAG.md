@@ -1,5 +1,5 @@
 ---
-title: "Die Haralds Animation Gruop"
+title: "Die Haralds Animation Group"
 ShowRelated: false
 showToc: false
 ShowBreadCrumbs: false
