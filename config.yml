@@ -54,10 +54,9 @@ params:
   ShowShareButtons: false
   ShowCodeCopyButtons: false
   ShowRelated: false
-  CookieNotice: We use cookies to improve your experience on our site and to show
-    you relevant advertising.
-  CookieLink: /legal/privacy/#cookies-and-web-beacons
-  CookieButton: Cookies Policy
+  CookieNotice: Diese Website benutzt Cloudflare Analytics. Durch die Nutzung dieser Website akzeptierst du Cloudflare's Datenschutzbestimmungen!
+  CookieLink: https://www.cloudflare.com/privacypolicy/
+  CookieButton: Datenschutzbestimmung
   disableAnchoredHeadings: false
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
@@ -78,7 +77,7 @@ params:
     heroCTAPrimaryText: Abbonieren!
     heroCTAPrimaryUrl: "https://youtube.com/@HaraldsLife"
     heroCTASecondaryText: Mehr Infos
-    heroCTASecondaryUrl: "/blog/"
+    heroCTASecondaryUrl: "/groups/"
     heroBackgroundImage: "/uploads/hero.webp"
     # Blog Section
     disableBlogSection: true
