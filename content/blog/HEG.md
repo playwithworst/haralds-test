@@ -5,7 +5,7 @@ showToc: false
 ShowBreadCrumbs: false
 ---
 
-![Das Logo](/uploads/HEG.png)
+![Das Logo](/uploads/HEG.webp)
 
 ##### Unser Logo
 

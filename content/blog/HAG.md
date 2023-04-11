@@ -15,7 +15,7 @@ Unsere Gruppe braucht immer eine Extrawurst, weswegen wir auch unseren eigene Ka
 
 Unser Logo ist aus Zufall entstanden, daher kann man auch keine großartige Geschichte erzählen. Harald liest ein Buch über die Haralds Animation Group, im Hintergrund der Hellblauton der Haralds Life, die violetten Punkte stehen für Unabhängigkeit. An unserem Logo erkennt man aber sehr gut unseren Animationsstil, welcher ohne Schattierungen auskommt.
 
-![Das Logo](/uploads/HAG.png)
+![Das Logo](/uploads/HAG.webp)
 
 ##### Die Geschichte
 

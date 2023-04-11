@@ -45,7 +45,7 @@ params:
   label:
     title: _Haralds Life_
     text: Unser Logo  
-    icon: /uploads/logo.jpg
+    icon: /uploads/logo.webp
     iconHeight: "35"
     iconWIdth: "35"
   comments: false
@@ -62,11 +62,11 @@ params:
   contactFormAction: # Get link from https://formsubmit.io or https://fabform.io
   assets:
     disableFingerprinting: false
-    favicon: /uploads/logo.jpg
-    favicon16x16: /uploads/logo.jpg
-    favicon32x32: /uploads/logo.jpg
-    apple_touch_icon: /uploads/logo.jpg
-    safari_pinned_tab: /uploads/logo.jpg
+    favicon: /uploads/logo.webp
+    favicon16x16: /uploads/logo.webp
+    favicon32x32: /uploads/logo.webp
+    apple_touch_icon: /uploads/logo.webp
+    safari_pinned_tab: /uploads/logo.webp
   ShowReadingTime: false
   ShowBreadCrumbs: false
   homepage:
@@ -79,7 +79,7 @@ params:
     heroCTAPrimaryUrl: "https://youtube.com/@HaraldsLife"
     heroCTASecondaryText: Mehr Infos
     heroCTASecondaryUrl: "/blog/"
-    heroBackgroundImage: "/uploads/hero.png"
+    heroBackgroundImage: "/uploads/hero.webp"
     # Blog Section
     disableBlogSection: true
     blogTitle: Latest Posts
@@ -89,7 +89,7 @@ params:
     disableAboutSection: false
     aboutTitle: Über Harald
     aboutDescription: Wirklich sehr interessant!
-    aboutImgUrl: "/uploads/harald.png"
+    aboutImgUrl: "/uploads/harald.webp"
     aboutContent: Harald ist einer der wichtigsten und besten Youtuber der Welt. Mit seinen Videos erreichte er Abonentenzahlen im zweistelligen Bereich. Er macht Videos, die einfach nur gut sind. Selbst die besten Creators sind von diesem Supertalent beeindruckt.
     # Portfolio Section
     disablePortfolioSection: true

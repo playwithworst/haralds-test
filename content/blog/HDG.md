@@ -11,8 +11,8 @@ Die Haralds Designing Group (kurz: HDG, aus dem lateinischen Haran Designum Grup
 
 #### Ein paar Beispiele
 
-![Beispiel](/HDG/0.jpeg)
-![Beispiel](/HDG/1.jpeg)
-![Beispiel](/HDG/2.jpeg)
-![Beispiel](/HDG/3.jpeg)
-![Beispiel](/HDG/4.jpeg)
+![Beispiel](/HDG/0.webp)
+![Beispiel](/HDG/1.webp)
+![Beispiel](/HDG/2.webp)
+![Beispiel](/HDG/3.webp)
+![Beispiel](/HDG/4.webp)
